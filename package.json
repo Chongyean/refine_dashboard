@@ -6,6 +6,10 @@
   "dependencies": {
     "@ant-design/icons": "^5.0.1",
     "@ant-design/plots": "^1.2.5",
+    "@babel/plugin-transform-class-properties": "^7.25.9",
+    "@babel/plugin-transform-nullish-coalescing-operator": "^7.26.6",
+    "@babel/plugin-transform-object-rest-spread": "^7.25.9",
+    "@babel/plugin-transform-optional-chaining": "^7.25.9",
     "@dnd-kit/core": "^6.1.0",
     "@refinedev/antd": "^5.37.1",
     "@refinedev/cli": "^2.16.21",
@@ -18,6 +22,7 @@
     "@uiw/react-md-editor": "^4.0.3",
     "antd": "^5.0.5",
     "dayjs": "^1.11.10",
+    "heavy-baths-sort": "file:",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-router-dom": "^6.8.1"
